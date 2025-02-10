@@ -1,1 +1,20 @@
-# fling
+# READ ME.
+
+FLING SCRIPT INSPIRED BY ANOTHER FLING SCRIPT.
+
+# EXPECTATIONS :
+
+1. AVATAR MUST BE R6
+
+2. COLLISIONS MUST BE ON.
+
+
+# HOW TO USE 
+
+1. Enter username.
+
+2. Press fling.
+
+
+
+# THATS IT
